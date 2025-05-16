@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /$
+Disallow: /private/
+Disallow: /temp/
+
+Sitemap: https://heavy-machinery-installation-oman.alwejhagroup.com/sitemap.xml
